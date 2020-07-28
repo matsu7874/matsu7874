@@ -1,4 +1,10 @@
-### Hi there 👋
+# matsu7874
+
+A software engineer working  FORCIA, Inc.
+
+![matsu7874's github stats](https://github-readme-stats.vercel.app/api?username=matsu7874&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsu7874&layout=compact)
+
 
 <!--
 **matsu7874/matsu7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
